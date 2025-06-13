@@ -14,4 +14,11 @@ Translate text from Excel sheets using the IIT Bombay CFILT API.
 ### Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
+```
+
+### Install Dependencies
+
+```bash
+python3 translator.py --filepath input.xlsx --source en --target ne
+```
