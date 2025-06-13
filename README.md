@@ -47,10 +47,10 @@ python3 excel_translator.py --filepath path/to/your/excel_file.xlsx --source <so
 
 ---
 
-## 🔧 Example
+## 📝 Example
 
 ```bash
-python3 exceLl_translator.py --filepath my_excel.xlsx --source en --target ne
+python3 excel_translator.py --filepath my_excel.xlsx --source en --target ne
 ```
 
 This will create a new Excel file called `translated_my_excel.xlsx` with all sheets translated to Nepali.
